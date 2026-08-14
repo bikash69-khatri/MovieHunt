@@ -1,0 +1,37 @@
+MOVIEHUNT - START HERE
+======================
+
+WINDOWS
+-------
+1. Extract the ZIP.
+2. Open the MovieHunt folder.
+3. Double-click RUN-WINDOWS.bat.
+4. The first run automatically runs npm install.
+5. MovieHunt opens at http://localhost:5173.
+
+MAC
+---
+1. Extract the ZIP.
+2. Open the MovieHunt folder.
+3. Double-click RUN-MAC.command.
+4. The first run automatically runs npm install.
+
+REQUIREMENT
+-----------
+Node.js must be installed.
+
+MANUAL COMMANDS
+---------------
+npm install
+npm run dev
+
+LOGIN
+-----
+The login/authentication system has been removed completely.
+All pages and movie features can be used directly without signing in.
+The Watchlist button on movie details now works without an account.
+
+MOVIES / POSTERS
+----------------
+Real poster URLs are included for the built-in movie collection.
+TMDB credentials are optional and only needed if you want automatically updated live movie data.
